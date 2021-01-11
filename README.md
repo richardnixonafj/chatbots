@@ -1,6 +1,6 @@
 # chatbots
 
-##Repositorio utilizado para aprendizado do desenvolvimento de chatbots
+## Repositorio utilizado para aprendizado do desenvolvimento de chatbots
 
 ### Chatbot com Python e NLTK_01.ipynb
 
