@@ -55,4 +55,4 @@ Se você quiser entrar em contato comigo:
 richardnixon@posteo.org
 
 ## Licença
-Este projeto usa a seguinte licença: <GPT3>.
+Este projeto usa a seguinte licença: GNU GENERAL PUBLIC LICENSE Version 3
