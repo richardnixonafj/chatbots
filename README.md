@@ -19,9 +19,6 @@ Segundo exemplo, realizando o scrapy de uma pagina da wikipedia, com o beautiful
 - Calculo do TF-IDF (Term frequency - inverse document frequency)
 - Calculo de similaridade dos cosenos
 
-### Pré-requisito
-
-
 ### Chatbot  3 - API em Flask.
 
 ### Instalação
@@ -39,7 +36,7 @@ Segundo exemplo, realizando o scrapy de uma pagina da wikipedia, com o beautiful
 
 
 
-
+&nbsp;
 
 ## :rocket: Tecnologias
 
@@ -48,11 +45,15 @@ Neste projeto foram utilizadas as seguintes Tecnologias:
 ![Requests](img/220px-Requests_Python_Logo.png)![Python](img/python.png)![Scikit-learn](img/1200px-Scikit_learn_logo_small.svg.png)![Beautiful Soup](img/bs.png)![Numpy](img/numpy.png)![Flask](img/flask.png)![SpaCy](img/spacy.png)![NLTK](img/python_nltk.png)
 
 
- 
+&nbsp;
+
+&nbsp;
 ## Contato
 Se você quiser entrar em contato comigo:
 
 richardnixon@posteo.org
+
+&nbsp;
 
 ## Licença
 Este projeto usa a seguinte licença: GNU GENERAL PUBLIC LICENSE Version 3
