@@ -7,7 +7,6 @@
 Trata-se do primeiro exemplo simples, utilizando a lib NLTK e a funçao de reflections, responsavel pelo tratamento de linguagem natural, onde é realizado o teste com a nltk.chat.eliza.demo().
 
 
-
 ### Chatbot com Python e NLTK para pesquisar documentos.
 
 Segundo exemplo, realizando o scrapy de uma pagina da wikipedia, com o beautifulsoup, carregando e fazendo o pré-processamento aplicantado as técnicas.
@@ -20,6 +19,7 @@ Segundo exemplo, realizando o scrapy de uma pagina da wikipedia, com o beautiful
 - Calculo do TF-IDF (Term frequency - inverse document frequency)
 - Calculo de similaridade dos cosenos
 
+### Pré-requisito
 
 
 ### Chatbot  3 - API em Flask.
@@ -56,13 +56,3 @@ richardnixon@posteo.org
 
 ## Licença
 Este projeto usa a seguinte licença: <GPT3>.
- 
-
-
- 
-
-
-
-
- 
-
