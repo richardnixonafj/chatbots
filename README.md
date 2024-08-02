@@ -51,7 +51,7 @@ Neste projeto foram utilizadas as seguintes Tecnologias:
 ## Contato
 Se você quiser entrar em contato comigo:
 
-richardnixon@posteo.org
+rnixonaf@gmail.com
 
 &nbsp;
 
